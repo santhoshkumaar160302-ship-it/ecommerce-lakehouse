@@ -6,7 +6,7 @@ e-commerce sources into a clean **star schema** in **Delta Lake** on **Unity Cat
 
 Built with PySpark and Spark SQL on Databricks Free Edition (serverless).
 
-**[View the live dashboard on Tableau Public]([https://public.tableau.com/views/ecommerce_sales_17930491835610/E-CommerceSalesDashboard](https://public.tableau.com/views/ecommerce_sales_17938329067600/E-CommerceSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+**[View the live dashboard on Tableau Public]([[https://public.tableau.com/views/ecommerce_sales_17930491835610/E-CommerceSalesDashboard](https://public.tableau.com/views/ecommerce_sales_17938329067600/E-CommerceSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/ecommerce_sales_17938329067600/E-CommerceSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 <!-- screenshot: docs/dashboard.png -->
 
